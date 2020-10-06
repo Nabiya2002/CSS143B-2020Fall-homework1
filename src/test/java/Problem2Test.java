@@ -23,7 +23,7 @@ public class Problem2Test {
                 {3, 3, 2, 2, 4, 4},
                 {1, 2, 3, 4},
                 {4, 3, 2, 1},
-                {-8, -10, -2}
+                {-8, -10, -2, 5}
         };
 
         int[][] expected = {
@@ -35,7 +35,7 @@ public class Problem2Test {
                 {2, 2, 3, 3, 4, 4},
                 {1, 2, 3, 4},
                 {1, 2, 3, 4},
-                {-10, -8, -2}
+                {-10, -8, -2, 5}
         };
         for (int i = 0; i < inputs.length; i++) {
             Problem2.bubbleSort(inputs[i]);

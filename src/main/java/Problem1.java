@@ -2,6 +2,7 @@
     Author: Nabiya Alam
     Version: 1.0.0
  */
+
 public class Problem1 {
 
     // Do not change signature (function name, parameters)
