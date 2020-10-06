@@ -1,6 +1,6 @@
 /*
-Author: Nabiya Alam
-Version: 1.0.0
+    Author: Nabiya Alam
+    Version: 1.0.0
  */
 public class Problem2 {
 
